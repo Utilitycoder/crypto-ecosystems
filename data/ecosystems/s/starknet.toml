@@ -7950,6 +7950,9 @@ url = "https://github.com/urbit/azimuth-cairo"
 url = "https://github.com/Utilitycoder/pragma"
 
 [[repo]]
+url = "https://github.com/Utilitycoder/starkclime"
+
+[[repo]]
 url = "https://github.com/V1C70RYG0D/ctf-blockchain"
 
 [[repo]]
